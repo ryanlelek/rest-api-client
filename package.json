@@ -1,0 +1,26 @@
+{
+  "name"          : "rest-api-client",
+  "version"       : "0.0.1",
+  "description"   : "Simple REST client built on the request module",
+  "author"        : {
+    "name"  : "Ryan Lelek",
+    "email" : "ryanlelek@gmail.com"
+  },
+  "main"          : "./lib/rest-client.js",
+  "dependencies" : {
+    "request" : "2.34.0",
+    "lodash"  : "2.4.1"
+  },
+  "devDependencies" : {
+    "mocha"   : "1.17.1",
+    "should"  : "3.1.3"
+  },
+  "repository" : {
+    "type"  : "git",
+    "url"   : "https://github.com/ryanlelek/rest-api-client.git"
+  },
+  "engines" : {
+    "node"  : "0.10.x",
+    "npm"   : "1.4.x"
+  }
+}
