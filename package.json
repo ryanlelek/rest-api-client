@@ -1,6 +1,6 @@
 {
   "name"          : "rest-api-client",
-  "version"       : "0.0.2",
+  "version"       : "0.0.3",
   "description"   : "Simple REST client built on the request module",
   "author"        : {
     "name"  : "Ryan Lelek",
